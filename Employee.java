@@ -6,9 +6,10 @@ import java.util.Scanner;
 
 // Create an Employee Class
 public class Employee {
-    private int EmpId; 
-    private String Name; //changes on main branch on line num 10
-    private int Salary;  
+    private int EmpId;  
+    private String Name;//chages is done on line num 10 by dev
+    private int Salary; 
+
 
     public Employee(int empId, String name, int salary) {
         this.EmpId = empId;
